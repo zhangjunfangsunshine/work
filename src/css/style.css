@@ -34,3 +34,20 @@ ul li {
     line-height: 44px;
     text-align: center;
 }
+
+section {
+    flex-grow: 1;
+    width: 100%;
+}
+
+ol {
+    width: 100%;
+    height: 100%;
+}
+
+ol li {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
